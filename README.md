@@ -1,6 +1,5 @@
 ## 開発環境
 
-* AWS Cloud9
 * Ruby
 * Git
 * Heroku
